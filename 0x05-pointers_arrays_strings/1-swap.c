@@ -2,8 +2,8 @@
 
 /**
  * swap_int - swap variable values
- * @n: pointer 1
- * @n: pointer 2
+ * @n: pointer a
+ * @n: pointer b
  * Return: void
  */
 
